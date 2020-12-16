@@ -30,6 +30,8 @@ namespace PrimeNoAssignment
                     Console.Write("{0} ", i);
             }
             Console.Write("\n");
+            
+            Console.WriteLine("Tushar Sinha");
         }
     }
 }
