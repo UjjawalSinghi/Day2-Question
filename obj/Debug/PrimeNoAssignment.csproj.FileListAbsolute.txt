@@ -1,0 +1,7 @@
+C:\Users\Golu\Desktop\Specialisation\Assignment\PrimeNoAssignment\PrimeNoAssignment\bin\Debug\PrimeNoAssignment.exe.config
+C:\Users\Golu\Desktop\Specialisation\Assignment\PrimeNoAssignment\PrimeNoAssignment\bin\Debug\PrimeNoAssignment.exe
+C:\Users\Golu\Desktop\Specialisation\Assignment\PrimeNoAssignment\PrimeNoAssignment\bin\Debug\PrimeNoAssignment.pdb
+C:\Users\Golu\Desktop\Specialisation\Assignment\PrimeNoAssignment\PrimeNoAssignment\obj\Debug\PrimeNoAssignment.csprojAssemblyReference.cache
+C:\Users\Golu\Desktop\Specialisation\Assignment\PrimeNoAssignment\PrimeNoAssignment\obj\Debug\PrimeNoAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Golu\Desktop\Specialisation\Assignment\PrimeNoAssignment\PrimeNoAssignment\obj\Debug\PrimeNoAssignment.exe
+C:\Users\Golu\Desktop\Specialisation\Assignment\PrimeNoAssignment\PrimeNoAssignment\obj\Debug\PrimeNoAssignment.pdb
